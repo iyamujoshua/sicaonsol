@@ -1,0 +1,46 @@
+.Footer{
+    display: block;
+    background-color: #87592F;
+      margin-top: 150px;
+     padding-top: 5rem;
+     padding-bottom: 13rem;
+}
+
+.Footer_flex h1{
+    text-align: center;
+    margin-bottom: 30px;
+    color: white;
+}
+.Socials{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+
+.parents{
+background-color: white;
+border-radius: 4px;
+padding: 13px 13px;
+}
+
+
+
+
+@media screen  and (max-width:820px){
+    .Footer{
+        display: block;
+        background-color: #87592F;
+        margin-top: 150px;
+       
+    }
+
+    .Footer_flex h1{
+        text-align: center;
+  font-size: 15px;
+    }
+
+
+
+
+}

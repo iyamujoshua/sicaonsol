@@ -2,6 +2,8 @@ import React from 'react'
 import { useEffect } from "react";
 import profilepic from "../../assets/profilepic.png"
 import "./style.css"
+import twitter from "../../assets/twitter.png"
+import telegram from "../../assets/telegram.png"
 import Aos from "aos";
 import "aos/dist/aos.css";
 const Header = () => {
