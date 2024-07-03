@@ -1,8 +1,13 @@
 import React from 'react'
+import { useEffect } from "react";
 import profilepic from "../../assets/profilepic.png"
 import "./style.css"
-
-function Header() {
+import Aos from "aos";
+import "aos/dist/aos.css";
+const Header = () => {
+  useEffect(() => {
+    Aos.init({ duration: 2000 });
+  }, []);
   return (
     <div>
    <div className='Big-Header'>
@@ -20,3 +25,6 @@ function Header() {
 }
 
 export default Header
+
+
+
