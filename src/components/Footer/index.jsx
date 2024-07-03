@@ -12,8 +12,8 @@ export default function Footer() {
 
       </div>
       <div className="Socials">
-    <a href="https://x.com/CABIBI_SOL" className="parents"><img src={twitter} height={22} width={22} alt="" /></a>
-    <a href="https://t.me/cabibi_sol" className="parents"><img src={telegram} height={22} width={22} alt="" /></a>
+    <a href="#" className="parents"><img src={twitter} height={22} width={22} alt="" /></a>
+    <a href="#" className="parents"><img src={telegram} height={22} width={22} alt="" /></a>
    
 
 </div>
