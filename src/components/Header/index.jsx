@@ -15,8 +15,8 @@ const Header = () => {
    <div className='Big-Header'>
     <h1>SPARKYONSOL</h1>
     <p>Sparky, an American Golden Retriever, lived in luxury. He donned a superhero suit and became sparky <br /> launching $sparky to make crypto fun. Sparky's viral antics quickly spread, revolutionizing the crypto space.</p>
-    <p className='CA'>CA:*******************************</p>
-    <a href="#" className='Buy_sol'>Buy Now</a>
+    <p className='CA'>CUAMZHziMo3VazR2tKKpDdgtur3b8JLCQZhXcanXpump</p>
+    <a href="https://pump.fun/CUAMZHziMo3VazR2tKKpDdgtur3b8JLCQZhXcanXpump" className='Buy_sol'>Buy Now</a>
    </div>
 
    <div className='profile'>
