@@ -1,6 +1,6 @@
 import React from 'react'
 import { useEffect } from "react";
-import profilepic from "../../assets/profilepic.png"
+import profilepic from "../../assets/cropped.png"
 import "./style.css"
 import twitter from "../../assets/twitter.png"
 import telegram from "../../assets/telegram.png"
