@@ -12,7 +12,7 @@ export default function Footer() {
 
       </div>
       <div className="Socials">
-    <a href="#" className="parents"><img src={twitter} height={22} width={22} alt="" /></a>
+    <a href="https://x.com/sparky_onsol" className="parents"><img src={twitter} height={22} width={22} alt="" /></a>
     <a href="https://t.me/sparkyonsol" className="parents"><img src={telegram} height={22} width={22} alt="" /></a>
    
 
