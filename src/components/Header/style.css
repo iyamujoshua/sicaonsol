@@ -12,8 +12,31 @@
 }
 
 .Big-Header h1 {
-  font-size: 70px;
-  color: white;
+  color: #fff; /* Text color */
+            font-size: 70px; /* Increase the font size */
+            text-shadow: 0 0 5px #fff, /* White glow */
+                         0 0 10px #fff, /* White glow */
+                         0 0 20px #ff00ff, /* Magenta glow */
+                         0 0 30px #ff00ff, /* Magenta glow */
+                         0 0 40px #ff00ff, /* Magenta glow */
+                         0 0 50px #ff00ff, /* Magenta glow */
+                         0 0 60px #ff00ff; /* Magenta glow */
+                         animation: glow 0.5s infinite alternate;
+}
+
+@keyframes glow {
+  0% {
+      text-shadow: 0 0 5px #fff, 
+                   0 0 10px #fff, 
+                   0 0 20px #ff00ff, 
+                   0 0 30px #ff00ff, 
+                   0 0 40px #ff00ff, 
+                   0 0 50px #ff00ff, 
+                   0 0 60px #ff00ff;
+  }
+  100% {
+      text-shadow: none;
+  }
 }
 .Big-Header p {
   font-size: 20px;
