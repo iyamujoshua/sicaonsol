@@ -1,10 +1,7 @@
 import React from 'react';
-import image1 from "../../assets/image1.jpeg";
-import image2 from "../../assets/image2.jpeg";
-import image3 from "../../assets/imag3.jpeg";
-import image4 from "../../assets/image4.jpeg";
-import image5 from "../../assets/image5.jpeg";
-import image6 from "../../assets/image6.jpeg";
+import image1 from "../../assets/sica.jpeg";
+import image2 from "../../assets/sica1.jpeg";
+import image5 from "../../assets/sica2.jpeg";
 import './style.css';
 
 function Gallery() {
@@ -30,27 +27,13 @@ function Gallery() {
 
           {/* card 3 */}
 
-          <div className="my_cards">
-            <img src={image3} alt="" />
-            <div className="card_contents">
-            </div>
-          </div>
 
-          <div className="my_cards">
-            <img src={image4} alt="" />
-            <div className="card_contents">
-            </div>
-          </div>
           <div className="my_cards">
             <img src={image5} alt="" />
             <div className="card_contents">
             </div>
           </div>
-          <div className="my_cards">
-            <img src={image6} alt="" />
-            <div className="card_contents">
-            </div>
-          </div>
+
           
         </div>
         {/* <button>Read More</button> */}
