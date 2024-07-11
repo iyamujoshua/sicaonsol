@@ -13,8 +13,9 @@ const Header = () => {
   return (
     <div>
    <div className='Big-Header'>
-    <h1>SICA</h1>
-<p></p>
+    <h1>$SiCA</h1>
+    <h3>Silly Cat</h3>
+<p><a href="https://www.reddit.com/r/redditgetsdrawnbadly/s/oaetDSGgqC">About silly cat</a></p>
     <p className='CA'> CA: *************</p>
     <a href="" className='Buy_sol'>Buy Now</a>
    </div>
