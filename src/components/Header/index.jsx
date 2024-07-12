@@ -16,8 +16,8 @@ const Header = () => {
     <h1>$SiCA</h1>
     <h3>Silly Cat</h3>
 <a href="https://www.reddit.com/r/redditgetsdrawnbadly/s/oaetDSGgqC" className='silly'>About silly cat</a>
-    <p className='CA'> CA: *************</p>
-    <a href="" className='Buy_sol'>Buy Now</a>
+    <p className='CA'> CA: 6SMKH1CwaYqSkPbuTxcSppy8AgCwevWn7EdQfQm2pump</p>
+    <a href="https://pump.fun/6SMKH1CwaYqSkPbuTxcSppy8AgCwevWn7EdQfQm2pump" className='Buy_sol'>Buy Now</a>
    </div>
 
    <div className='profile'>
